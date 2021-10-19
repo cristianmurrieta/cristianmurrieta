@@ -9,8 +9,8 @@
     <ul>
         <li>Music: My band <a href="https://open.spotify.com/artist/3v0yW6WGfSJT6WaQpC9RIK?si=oMOL0gRYTw-qewAfZ7YUrw&dl_branch=1" target="_blank">Ore Ore y Otras Festividades</a> 🎧🎧</li>
         <li>Movies: Check it out my list at <a href="https://letterboxd.com/cocacoladealer/" target="_blank">Letterboxd</a> 📽📽📽</li>
-        <li>Running: A good way to leave all the stress behind 🏃🧘🏃</li>
-        <li>Cooking: i love all kind of foods especially Japanese 🍜🍣 and Peruvian 🌊🌊</li>
+        <li>Running: The best way to leave all the stress behind 🏃🧘🏃</li>
+        <li>Cooking: In love with the foods especially Japanese 🍜🍣 and Peruvian 🌊🌊</li>
     </ul>
     <p>Programming Languages: 👽👽👽</p>
     <uL>
